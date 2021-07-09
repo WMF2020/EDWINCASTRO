@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="aqui abajo" group-title="christian nodal",aqui abajo
-https://www.googleapis.com/drive/v3/files/1oceI4MYUP_AxW3zG5mApqciwqNUwzioU?alt=media&key=AIzaSyBVuEeR7czftdl05JVkY5RkvQDf_Hhdmkc
-#EXTINF:-1 tvg-id="" tvg-name="THE REASON" group-title="HOOBASTAN",THE RESAOSN
-https://www.googleapis.com/drive/v3/files/1rIEiktXyM7UpGHHxN7eHo6ImjeEBMiOa?alt=media&key=AIzaSyBVuEeR7czftdl05JVkY5RkvQDf_Hhdmkc
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/bLXtMPg/Bart-Simpson-s-Treehouse-of-Horror-1-Front-Cover.png" tvg-name="CASITA DEL HORROR 1"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 1
+https://www.googleapis.com/drive/v3/files/1d-EZpgHw3BAhmSJB8lIYLOovnl9-zaDl?alt=media&key=AIzaSyCXM11hvZcse4gWYXZfcXliLMs1KN1fjsc
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/dgnJdPJ/Bart-Simpson-s-Treehouse-of-Horror-2.jpg" tvg-name="CASITA DEL HORROR 2"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
+https://www.googleapis.com/drive/v3/files/1lKE4AEAkMP5tn_ref2sXruzj-u_MvFrx?alt=media&key=AIzaSyCXM11hvZcse4gWYXZfcXliLMs1KN1fjsc
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/W5hKnyh/Bart-Simpson-s-Treehouse-of-Horror-3.jpg" tvg-name="CASITA DEL HORROR 2"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
+https://www.googleapis.com/drive/v3/files/147TOjEI8TOyGlLh2_crhCHPeumRxfpqI?alt=media&key=AIzaSyCXM11hvZcse4gWYXZfcXliLMs1KN1fjsc
