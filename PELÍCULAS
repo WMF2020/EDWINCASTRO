@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/the_mask-746858956-large.jpg" tvg-name="LA MÁSCARA 1994"  group-title="PELICULAS FHD",LA MÁSCARA
 https://www.googleapis.com/drive/v3/files/1ymxkEE_w0A4fetavDI5BAs3e-Wo7xbkv?alt=media&key=AIzaSyDBFi27206G5l6tcA8REIkyIA5dkCWAye0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/fmj.jpg?itok=0gEkgjz_" tvg-name="FULL METAL JACKET 1987"  group-title="PELICULAS FHD",FULL METAL JACKET 1987
+https://www.googleapis.com/drive/v3/files/1hixiOPBM8yRqo25S4_DZeWh50m5ireiz?alt=media&key=AIzaSyDBFi27206G5l6tcA8REIkyIA5dkCWAye0
