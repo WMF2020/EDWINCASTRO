@@ -1,40 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="CASITA DEL HORROR 1" tvg-logo="https://i.ibb.co/bLXtMPg/Bart-Simpson-s-Treehouse-of-Horror-1-Front-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 1
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 1" tvg-logo="https://i.ibb.co/bLXtMPg/Bart-Simpson-s-Treehouse-of-Horror-1-Front-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 1
 https://www.googleapis.com/drive/v3/files/1d-EZpgHw3BAhmSJB8lIYLOovnl9-zaDl?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 2" tvg-logo="https://i.ibb.co/dgnJdPJ/Bart-Simpson-s-Treehouse-of-Horror-2.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 2" tvg-logo="https://i.ibb.co/dgnJdPJ/Bart-Simpson-s-Treehouse-of-Horror-2.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
 https://www.googleapis.com/drive/v3/files/1JMXOo4ny4hwE4BjbJYDlEHT-eba0EvXc?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 3" tvg-logo="https://i.ibb.co/W5hKnyh/Bart-Simpson-s-Treehouse-of-Horror-3.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 3
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 3" tvg-logo="https://i.ibb.co/W5hKnyh/Bart-Simpson-s-Treehouse-of-Horror-3.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 3
 https://www.googleapis.com/drive/v3/files/147TOjEI8TOyGlLh2_crhCHPeumRxfpqI?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 4" tvg-logo="https://i.ibb.co/KGzLn69/Bart-Simpson-s-Treehouse-of-Horror-4.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 4
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 4" tvg-logo="https://i.ibb.co/KGzLn69/Bart-Simpson-s-Treehouse-of-Horror-4.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 4
 https://www.googleapis.com/drive/v3/files/1s47CnnNa3Szwlr5e9bmBtBO3Fu6w5x0n?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 5" tvg-logo="https://i.ibb.co/2SfHmXy/Bart-Simpson-s-Treehouse-of-Horror-5.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 5
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 5" tvg-logo="https://i.ibb.co/2SfHmXy/Bart-Simpson-s-Treehouse-of-Horror-5.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 5
 https://www.googleapis.com/drive/v3/files/187j7Dx3XpDpCS8dl0_6JFyL-k8f6G6M6?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 6" tvg-logo="https://i.ibb.co/4gsLHZT/Bart-Simpson-s-Treehouse-of-Horror-6.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 6
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 6" tvg-logo="https://i.ibb.co/4gsLHZT/Bart-Simpson-s-Treehouse-of-Horror-6.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 6
 https://www.googleapis.com/drive/v3/files/1qG0ozdXZE1niMuvXtr84ZAMYkpCweJVJ?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 7" tvg-logo="https://i.ibb.co/6rmbNnz/Bart-Simpson-s-Treehouse-of-Horror-7.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 7
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 7" tvg-logo="https://i.ibb.co/6rmbNnz/Bart-Simpson-s-Treehouse-of-Horror-7.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 7
 https://www.googleapis.com/drive/v3/files/1X84RJetERMd0oTPJLeCsIfARJ5_1_vZp?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 8" tvg-logo="https://i.ibb.co/48rtd4r/Bart-Simpson-s-Treehouse-of-Horror-8.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 8
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 8" tvg-logo="https://i.ibb.co/48rtd4r/Bart-Simpson-s-Treehouse-of-Horror-8.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 8
 https://www.googleapis.com/drive/v3/files/19B6Ax_GJXxFvZTXpAuE9L979mWk0XMX0?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 9" tvg-logo="https://i.ibb.co/HqZSrCG/Bart-Simpson-s-Treehouse-of-Horror-9.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 9
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 9" tvg-logo="https://i.ibb.co/HqZSrCG/Bart-Simpson-s-Treehouse-of-Horror-9.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 9
 https://www.googleapis.com/drive/v3/files/1C0bmdPqMRuP_2_p0TKddbj-qwE3AalGQ?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 10" tvg-logo="https://i.ibb.co/vwL4Z5q/Bart-Simpson-s-Treehouse-of-Horror-10.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 10
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 10" tvg-logo="https://i.ibb.co/vwL4Z5q/Bart-Simpson-s-Treehouse-of-Horror-10.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 10
 https://www.googleapis.com/drive/v3/files/1EHP1LVPpJzqv1WLJrxTm0Gd16xVXyaHn?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 11" tvg-logo="https://i.ibb.co/NNps7Xn/Bart-Simpson-s-Treehouse-of-Horror-11.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 11
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 11" tvg-logo="https://i.ibb.co/NNps7Xn/Bart-Simpson-s-Treehouse-of-Horror-11.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 11
 https://www.googleapis.com/drive/v3/files/15pcshy040QfAeWU0XDeHKtT-EzjmT4c9?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 12" tvg-logo="https://i.ibb.co/kcqrhHK/386px-Bart-Simpson-s-Treehouse-of-Horror-12.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 12
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 12" tvg-logo="https://i.ibb.co/kcqrhHK/386px-Bart-Simpson-s-Treehouse-of-Horror-12.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 12
 https://www.googleapis.com/drive/v3/files/1sfuNgqXKxY1G0wUhl0tiu-E5xXqE__r_?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 13" tvg-logo="https://i.ibb.co/VwkKLyt/250px-Bart-Simpson-s-Treehouse-of-Horror-13.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 13
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 13" tvg-logo="https://i.ibb.co/VwkKLyt/250px-Bart-Simpson-s-Treehouse-of-Horror-13.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 13
 https://www.googleapis.com/drive/v3/files/1rdJZjH-Coyj19eVmCP0fAKJujhEcArzX?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 14" tvg-logo="https://i.ibb.co/fpCWdmh/150px-The-Simpsons-Treehouse-of-Horror-14.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 14
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 14" tvg-logo="https://i.ibb.co/fpCWdmh/150px-The-Simpsons-Treehouse-of-Horror-14.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 14
 https://www.googleapis.com/drive/v3/files/1xCDeqdoOkGe5-fQAsTsaq5w6xbSi_K0A?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 15" tvg-logo="https://i.ibb.co/2tBRzL0/150px-The-Simpsons-Treehouse-of-Horror-15.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 15
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 15" tvg-logo="https://i.ibb.co/2tBRzL0/150px-The-Simpsons-Treehouse-of-Horror-15.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 15
 https://www.googleapis.com/drive/v3/files/1g5oXv0yjPTbhSD7QDMibbQ4d0kRBioYd?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 16" tvg-logo="https://i.ibb.co/KjRSWby/150px-The-Simpsons-Treehouse-of-Horror-16.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 16
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 16" tvg-logo="https://i.ibb.co/KjRSWby/150px-The-Simpsons-Treehouse-of-Horror-16.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 16
 https://www.googleapis.com/drive/v3/files/1NNRTY_Z_vZwDcmsxJupWTB9loXinhP3F?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 17" tvg-logo="https://i.ibb.co/LNqZFZz/150px-Treehouse-17-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 17
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 17" tvg-logo="https://i.ibb.co/LNqZFZz/150px-Treehouse-17-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 17
 https://www.googleapis.com/drive/v3/files/1Hq5-QhGeIL9U_GfWJqCtcISQO3rpM2Z-?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 18" tvg-logo="https://i.ibb.co/mSgQjrw/150px-Treehouse-18-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 18
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 18" tvg-logo="https://i.ibb.co/mSgQjrw/150px-Treehouse-18-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 18
 https://www.googleapis.com/drive/v3/files/1gKopxKz-4z_AMq2RsRV8z25hrb5tld0X?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 19" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 19
+https://www.googleapis.com/drive/v3/files/1eD7YYLkUxlxtxumzflG-2WN5Qng42qVP?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 20" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 20
+https://www.googleapis.com/drive/v3/files/1EwSEHC8QGo_24nzZDHPq-Xu70NuLJKBT?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 21" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 21
+https://www.googleapis.com/drive/v3/files/1TZ4mzR6qRnQURoCNOF8JTbEaRzRDmD2c?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 22" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 22
+https://www.googleapis.com/drive/v3/files/1AZ7-rm3L2__XEsCf4mp4pFJgKHtDCHwJ?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 23" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 23
+https://www.googleapis.com/drive/v3/files/1NDldAC--y9V1NbbOx6uzqo-85Hlh3uwh?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 24" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 24
+https://www.googleapis.com/drive/v3/files/1TyQcyACXtDmw2uKVWcYcMNuSxNesqLX_?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 25" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 25
+https://www.googleapis.com/drive/v3/files/1Zz9KEmK9stmQAJrLkWjR6EldCr2Nlzwe?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 26" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 26
+https://www.googleapis.com/drive/v3/files/1Oo0OiBOY5Phirq0XgmnaiyVcFOiq0mHP?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 27" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 27
+https://www.googleapis.com/drive/v3/files/1BKXojJ5eMOw7Je6nnjEZAZTwCu_nZHs5?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 28" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 28
+https://www.googleapis.com/drive/v3/files/1hQ27a6jntLlzPZM5Y04sr5f0S-NNVAfW?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 29" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 29
+https://www.googleapis.com/drive/v3/files/1t9Nx9ZA3yWLrGmQ4BmJqG2JQbc0Oh2fy?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="" tvg-name="CASITA DEL HORROR 30" tvg-logo="" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 30
+https://www.googleapis.com/drive/v3/files/1M_Z9yWELJC4UYsdctEwIxLnPbQTZ5zhi?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
 #EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 1" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1yRr9-dLwh6yKhHOrOaSvHLY-eqkYNOPo?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
 #EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 2" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 2
