@@ -1,210 +1,139 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/bLXtMPg/Bart-Simpson-s-Treehouse-of-Horror-1-Front-Cover.png" tvg-name="CASITA DEL HORROR 1"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="CASITA DEL HORROR 1" tvg-logo="https://i.ibb.co/bLXtMPg/Bart-Simpson-s-Treehouse-of-Horror-1-Front-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 1
 https://www.googleapis.com/drive/v3/files/1d-EZpgHw3BAhmSJB8lIYLOovnl9-zaDl?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/dgnJdPJ/Bart-Simpson-s-Treehouse-of-Horror-2.jpg" tvg-name="CASITA DEL HORROR 2"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
-https://www.googleapis.com/drive/v3/files/1lKE4AEAkMP5tn_ref2sXruzj-u_MvFrx?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/W5hKnyh/Bart-Simpson-s-Treehouse-of-Horror-3.jpg" tvg-name="CASITA DEL HORROR 3"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 2" tvg-logo="https://i.ibb.co/dgnJdPJ/Bart-Simpson-s-Treehouse-of-Horror-2.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 2
+https://www.googleapis.com/drive/v3/files/1JMXOo4ny4hwE4BjbJYDlEHT-eba0EvXc?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 3" tvg-logo="https://i.ibb.co/W5hKnyh/Bart-Simpson-s-Treehouse-of-Horror-3.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 3
 https://www.googleapis.com/drive/v3/files/147TOjEI8TOyGlLh2_crhCHPeumRxfpqI?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/KGzLn69/Bart-Simpson-s-Treehouse-of-Horror-4.jpg" tvg-name="CASITA DEL HORROR 4"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 4" tvg-logo="https://i.ibb.co/KGzLn69/Bart-Simpson-s-Treehouse-of-Horror-4.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 4
 https://www.googleapis.com/drive/v3/files/1s47CnnNa3Szwlr5e9bmBtBO3Fu6w5x0n?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/2SfHmXy/Bart-Simpson-s-Treehouse-of-Horror-5.jpg" tvg-name="CASITA DEL HORROR 5"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 5" tvg-logo="https://i.ibb.co/2SfHmXy/Bart-Simpson-s-Treehouse-of-Horror-5.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 5
 https://www.googleapis.com/drive/v3/files/187j7Dx3XpDpCS8dl0_6JFyL-k8f6G6M6?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/4gsLHZT/Bart-Simpson-s-Treehouse-of-Horror-6.jpg" tvg-name="CASITA DEL HORROR 6"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 6" tvg-logo="https://i.ibb.co/4gsLHZT/Bart-Simpson-s-Treehouse-of-Horror-6.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 6
 https://www.googleapis.com/drive/v3/files/1qG0ozdXZE1niMuvXtr84ZAMYkpCweJVJ?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/6rmbNnz/Bart-Simpson-s-Treehouse-of-Horror-7.jpg" tvg-name="CASITA DEL HORROR 7"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 7
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 7" tvg-logo="https://i.ibb.co/6rmbNnz/Bart-Simpson-s-Treehouse-of-Horror-7.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 7
 https://www.googleapis.com/drive/v3/files/1X84RJetERMd0oTPJLeCsIfARJ5_1_vZp?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/48rtd4r/Bart-Simpson-s-Treehouse-of-Horror-8.jpg" tvg-name="CASITA DEL HORROR 8"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 8
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 8" tvg-logo="https://i.ibb.co/48rtd4r/Bart-Simpson-s-Treehouse-of-Horror-8.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 8
 https://www.googleapis.com/drive/v3/files/19B6Ax_GJXxFvZTXpAuE9L979mWk0XMX0?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/HqZSrCG/Bart-Simpson-s-Treehouse-of-Horror-9.jpg" tvg-name="CASITA DEL HORROR 9"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 9
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 9" tvg-logo="https://i.ibb.co/HqZSrCG/Bart-Simpson-s-Treehouse-of-Horror-9.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 9
 https://www.googleapis.com/drive/v3/files/1C0bmdPqMRuP_2_p0TKddbj-qwE3AalGQ?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/vwL4Z5q/Bart-Simpson-s-Treehouse-of-Horror-10.jpg" tvg-name="CASITA DEL HORROR 10"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 10
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 10" tvg-logo="https://i.ibb.co/vwL4Z5q/Bart-Simpson-s-Treehouse-of-Horror-10.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 10
 https://www.googleapis.com/drive/v3/files/1EHP1LVPpJzqv1WLJrxTm0Gd16xVXyaHn?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/NNps7Xn/Bart-Simpson-s-Treehouse-of-Horror-11.jpg" tvg-name="CASITA DEL HORROR 11"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 11
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 11" tvg-logo="https://i.ibb.co/NNps7Xn/Bart-Simpson-s-Treehouse-of-Horror-11.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 11
 https://www.googleapis.com/drive/v3/files/15pcshy040QfAeWU0XDeHKtT-EzjmT4c9?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/kcqrhHK/386px-Bart-Simpson-s-Treehouse-of-Horror-12.jpg" tvg-name="CASITA DEL HORROR 12"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 12
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 12" tvg-logo="https://i.ibb.co/kcqrhHK/386px-Bart-Simpson-s-Treehouse-of-Horror-12.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 12
 https://www.googleapis.com/drive/v3/files/1sfuNgqXKxY1G0wUhl0tiu-E5xXqE__r_?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/VwkKLyt/250px-Bart-Simpson-s-Treehouse-of-Horror-13.jpg" tvg-name="CASITA DEL HORROR 13"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 13
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 13" tvg-logo="https://i.ibb.co/VwkKLyt/250px-Bart-Simpson-s-Treehouse-of-Horror-13.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 13
 https://www.googleapis.com/drive/v3/files/1rdJZjH-Coyj19eVmCP0fAKJujhEcArzX?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/fpCWdmh/150px-The-Simpsons-Treehouse-of-Horror-14.jpg" tvg-name="CASITA DEL HORROR 14"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 14
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 14" tvg-logo="https://i.ibb.co/fpCWdmh/150px-The-Simpsons-Treehouse-of-Horror-14.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 14
 https://www.googleapis.com/drive/v3/files/1xCDeqdoOkGe5-fQAsTsaq5w6xbSi_K0A?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/2tBRzL0/150px-The-Simpsons-Treehouse-of-Horror-15.jpg" tvg-name="CASITA DEL HORROR 15"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 15
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 15" tvg-logo="https://i.ibb.co/2tBRzL0/150px-The-Simpsons-Treehouse-of-Horror-15.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 15
 https://www.googleapis.com/drive/v3/files/1g5oXv0yjPTbhSD7QDMibbQ4d0kRBioYd?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/KjRSWby/150px-The-Simpsons-Treehouse-of-Horror-16.jpg" tvg-name="CASITA DEL HORROR 16"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 16
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 16" tvg-logo="https://i.ibb.co/KjRSWby/150px-The-Simpsons-Treehouse-of-Horror-16.jpg" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 16
 https://www.googleapis.com/drive/v3/files/1NNRTY_Z_vZwDcmsxJupWTB9loXinhP3F?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/LNqZFZz/150px-Treehouse-17-Cover.png" tvg-name="CASITA DEL HORROR 17"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 17
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 17" tvg-logo="https://i.ibb.co/LNqZFZz/150px-Treehouse-17-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 17
 https://www.googleapis.com/drive/v3/files/1Hq5-QhGeIL9U_GfWJqCtcISQO3rpM2Z-?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ibb.co/mSgQjrw/150px-Treehouse-18-Cover.png" tvg-name="CASITA DEL HORROR 18"  group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 18
+#EXTINF:-1 tvg-id="New EPG" tvg-name="CASITA DEL HORROR 18" tvg-logo="https://i.ibb.co/mSgQjrw/150px-Treehouse-18-Cover.png" group-title="LA CASITA DEL HORROR",CASITA DEL HORROR 18
 https://www.googleapis.com/drive/v3/files/1gKopxKz-4z_AMq2RsRV8z25hrb5tld0X?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 1"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 1" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1yRr9-dLwh6yKhHOrOaSvHLY-eqkYNOPo?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 2"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 2" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/1gopvXdJ9eECQQtl0ToRVioLbb6BW1Y9v?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 3"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 3" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/1F2maX_PnwnxSfJD9Wa5j4PyeE_uSx6Uf?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 4"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 4" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/1Cyb57YqTIQF4g-raV4YPv6PkyU5-7F-p?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 5"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 5" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/17BoGvyps1xg2KZzp5uuCZnrLvlfIvvxk?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" tvg-name="TEMPORADA 1 - CAPITULO 6"  group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 6" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/267532/267532_173x251.jpg" group-title="PEAKY BLINDERS",TEMPORADA 1 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/11H_SkXVaOR3IvhBlPBUXd2aaDBXrOJZa?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 1"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 1" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1FswQqPF5-6zGpFtg_LPC9ehiuYO2ANey?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 2"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 2" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/1N9lPxFKb70eFj919_R4VAtfvsrWnPYjh?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 3"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 3" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/1SzYsVjpHDXaupC6d-XCTEs0LOtPIBam7?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 4"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 4" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/1osEbOj8VHPPhWnLCyrqJuMUWdXXyF6OL?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 5"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 5" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/1OsudwlfMouo4sjXdrYt4YD5b05WxbzL5?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 2 - CAPITULO 6"  group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 2 - CAPITULO 6" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F369%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 2 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/1iruAPF2eO5GVPaF2YzinaFu_xs16etYq?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 1"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 1" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1uLCCkwVXOsHhQKk6adxSCpbPpC6AzGyA?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 2"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 2" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/16vcYXl0f64vzgSSLb_aBd0Z3yUjmp_CY?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 3"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 3" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/1FpzUaRs2u-i2o9rrKCqHR7QhbCAWcXO7?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 4"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 4" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/1kni9zLUWwduJQi188AkHYHIjFsykP_Sg?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 5"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 5" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/104kI3xIPbC2uXyOoQrKBBDEKTbw3n3Qc?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" tvg-name="TEMPORADA 3 - CAPITULO 6"  group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 3 - CAPITULO 6" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Ftemporadas%2F000%2F004%2F368%2Fpeaky-blinders-1.jpg&nuevoancho=150&medio=abc" group-title="PEAKY BLINDERS",TEMPORADA 3 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/1G_5cIUENrfQSyT5IUmEPCmuHzLHE3zgx?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 1"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 1" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/15Ua_R0hJhgXkpnXXlvpGJC-mBteZAVMA?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 2"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 2" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/1A8KK0Q_jEqS9FIY8SN3qNKZVUVsAll8J?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 3"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 3" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/10AMHscGzFdB3_4uWEdSPE8sE8g2WoVLr?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 4"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 4" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/1YyUUzU3CQ2wDOP84tYl8_loNc8cBQQUD?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 5"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 5" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/1ZEKgtJEn-jGd1eBx0__s-1QXEGC0uA6A?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" tvg-name="TEMPORADA 4 - CAPITULO 6"  group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 4 - CAPITULO 6" tvg-logo="https://es.web.img2.acsta.net/c_210_280/pictures/18/03/14/14/20/2069499.jpg" group-title="PEAKY BLINDERS",TEMPORADA 4 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/1O1hWZWMGrrKkQ72L2NlYbQW_VbKoa3ZC?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 1"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 1" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1bib3S9UGhSwcnDh0rz2ak3F6zp4bYB-I?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 2"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 2" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/11yGEdeIkIP9u_OYpbT9FhW95ixIJQtVC?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 3"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 3" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/1nVh3brh1xCx4qnWkcuhQFtFYrExR_wxC?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 4"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 4" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/18qDsK5zlrbIUymTZNq_q2WsWqqiS-7M7?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 5"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 5" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/1_Pk6iP4rhasKw09PQHRjsjI3IWDv6Nf5?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" tvg-name="TEMPORADA 5 - CAPITULO 6"  group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 5 - CAPITULO 6" tvg-logo="https://tvshows.club/wp-content/uploads/Peaky-blinders-season-5-poster.jpg" group-title="PEAKY BLINDERS",TEMPORADA 5 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/1qbsPmYlm7rYK1kY-Q8QfE3zd9fBv3BWU?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 1"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 1
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 1" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 1
 https://www.googleapis.com/drive/v3/files/1f2-nHMu6nBbLgsAbDJiZNMuVkA82Q7gN?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 2"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 2
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 2" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 2
 https://www.googleapis.com/drive/v3/files/1Msfyvrw_SBi-3duxOQZ_Yu0sLtDy0BPV?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 3"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 3
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 3" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 3
 https://www.googleapis.com/drive/v3/files/1Msfyvrw_SBi-3duxOQZ_Yu0sLtDy0BPV?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 4"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 4
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 4" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 4
 https://www.googleapis.com/drive/v3/files/1PeJEk__U5yFoDmbuAfAx-pmvLJ8bghfF?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 5"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 5
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 5" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 5
 https://www.googleapis.com/drive/v3/files/1OBMokEVcNDMr8eb_JwUuCdT4CP10kn5U?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 6"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 6
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 6" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 6
 https://www.googleapis.com/drive/v3/files/1IgwQfG8SPvPwL_oJBzdJAw_Frqgn6PQE?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 7"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 7
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 7" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 7
 https://www.googleapis.com/drive/v3/files/1hLwYMckxvw3ZM-qugSGJy-fzCCRJAUyl?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 8"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 8
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 8" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 8
 https://www.googleapis.com/drive/v3/files/1x-9917s3ZLMOFCJhrAHHjxfDs44yF7dU?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 9"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 9
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 9" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 9
 https://www.googleapis.com/drive/v3/files/1x5D1QzTCU6PRFGGm84i0Q2njBjKnxAdU?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 10"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 10
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 10" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 10
 https://www.googleapis.com/drive/v3/files/1pzN2yla2l_CYo73rbmvoML5SY5odMTnA?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 11"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 11
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 11" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 11
 https://www.googleapis.com/drive/v3/files/12XpnRUYzP5jbhHQtVxZmZaHrTpeEdErU?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 12"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 12
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 12" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 12
 https://www.googleapis.com/drive/v3/files/1cdrzEaa67nA8ZL_fSkXctMPvOaySH9zP?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 13"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 13
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 13" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 13
 https://www.googleapis.com/drive/v3/files/1NL6SpqyszeHsxj5JTBFPuhPPsC2fvaww?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 14"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 14
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 14" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 14
 https://www.googleapis.com/drive/v3/files/184lroEv5iXwnPUwa8rABk1x0L4vxLYXE?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 15"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 15
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 15" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 15
 https://www.googleapis.com/drive/v3/files/11DWjhzj_YhdBDeeTsnZH5dQ5yr1vy62e?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 16"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 16
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 16" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 16
 https://www.googleapis.com/drive/v3/files/1Um2GCRW60IG5WLLcV_2d704kGJ_T49Z5?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 17"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 17
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 17" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 17
 https://www.googleapis.com/drive/v3/files/1OrexU0UCklSb-yorOAn-oNo9CbOFHTq6?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 18"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 18
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 18" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 18
 https://www.googleapis.com/drive/v3/files/1VFMA3eqTGbtAiU77rx4_NvJqYAuHGmwf?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 19"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 19
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 19" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 19
 https://www.googleapis.com/drive/v3/files/1s06FVlV_KioroaRUiha1AprALQB9vq9-?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 20"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 20
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 20" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 20
 https://www.googleapis.com/drive/v3/files/19b76ol4SC8iqh9mROhZhk75aMKkHqDKt?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="TEMPORADA 1 - CAPITULO 21"  group-title="SCORPION",TEMPORADA 1 - CAPITULO 21
+#EXTINF:-1 tvg-id="New EPG" tvg-name="TEMPORADA 1 - CAPITULO 21" tvg-logo="" group-title="SCORPION",TEMPORADA 1 - CAPITULO 21
 https://www.googleapis.com/drive/v3/files/1tM702xfK93QDCJ6dD0e10ZIUadyXsOGj?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
