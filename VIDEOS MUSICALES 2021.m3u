@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, REGGAETON VIVO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624355054/ei/jlzRYJCJHq-ZobIP7tC_6Aw/ip/200.87.92.88/id/BRlYZoseLOE.1/source/yt_live_broadcast/requiressl/yes/tx/24027696/txs/24027695%2C24027696%2C24027697%2C24027698/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bo/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886205/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSpJGcFK4p2ftaGiBiMAVPq1YHyro-S3QntTXVmDJJe0CIQDPK3jIUvgBo0FLNER_Z3a1rh3GqmNwz3iCvidkdYn3Tw%3D%3D/file/index.m3u8
-#EXTINF:-1, TWICH CARRERA
-https://d1m7jfoe9zdc1j.cloudfront.net/bf767aa99ea792bb69d3_carreraaa_42425290109_1623977743/720p30/index-muted-HTZXUEP88W.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="BALADAS LATINAS" tvg-logo="https://cdns-images.dzcdn.net/images/cover/173573b9ad29738fb7738fa21b3eccf9/264x264.jpg" group-title="ENGANCHADOS",BALADAS LATINAS
+https://www.googleapis.com/drive/v3/files/1JUHjoElcLTpnv07Z1RDBr5EGyKjMC6LC?alt=media&key=AIzaSyBXY9kc-tgR7k8W7XtKs_1OhfL1U5jEP8c
