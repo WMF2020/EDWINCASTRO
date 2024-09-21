@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1, TV en Vivo - Canal 1
+http://url_del_canal_1
+
+#EXTINF:-1, TV en Vivo - Canal 2
+http://url_del_canal_2
+
+#EXTINF:-1, Películas - Acción
+http://url_de_pelicula_accion_1
+#EXTINF:-1, Películas - Comedia
+http://url_de_pelicula_comedia_1
+
+#EXTINF:-1, Series - Drama
+http://url_de_serie_drama_1
+#EXTINF:-1, Series - Comedia
+http://url_de_serie_comedia_1
