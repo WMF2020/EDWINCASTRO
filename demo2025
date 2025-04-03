@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-name="FOX SPORTS 1" tvg-logo="http://logo.com/canal1.png" group-title="Noticias",Canal 1
+http://gzytv.vip:8080/live/DEMO1900/1900DEMO/5075c94b-730a-4442-8047-99a716a68d23.m3u8
+
+
+#EXTINF:-1 tvg-id="EVENTOS BOLIVIA" tvg-name="EVENTOS BOLIVIA" tvg-logo="http://logo.com/espn.png" group-title="Deportes",ESPN Deportes
+http://chve.lat:80/live/DEMO1912/1912/109d524a-e38d-461c-9257-695d6a2a582a.m3u8
+
+
+#EXTINF:-1 tvg-id="ROCK CLASICO" tvg-name="ROCK CLASICO" tvg-logo="http://logo.com/espn.png" group-title="Deportes",ESPN Deportes
+https://1a-1791.com/live/e6pv21nm/slot-114/r08w-okr0_1080p/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="GAMEPLAY" tvg-name="GAMEPLAY" tvg-logo="http://logo.com/espn.png" group-title="Deportes",ESPN Deportes
+https://1a-1791.com/live/e6pv21nm/slot-114/r08w-okr0_1080p/chunklist_DVR.m3u8
+https://sae11.playlist.live-video.net/v1/playlist/CtEFZ3BZ0GC3zX2aLEc8peaem7W8YwMbFdG6B9oxPFmK0EhXSkTmlHn4ORc3miarZ2SDxkgUe9h1IBbDNqyr9qz-pKnn_U5d2wkMWNU2PZ9_BkdSu2sR_q1uVwgQdChqD2ykootdxcbuiAMi9NUJlzwlO8EWZ39v3IEk_EqufJePa1PYVqW0tZTyyQPfwYl92lscg9sqexldFsRxjjQKMLlCBdd1eUb_xF7kfLqs9jq5x3rDaoxnnR0RTxLfeVQ5SIdiXwuVRVJBTjUVpx167zE_cIBpjKkaavL7sSfjkOaZW1AQg3EZqHDXxf3WzxsAfPLUPl5HKgPfEiujL8m6IcUGc2O2L0CIzyhgq7RWINRoY1vx_wz-76Kl22GSlhDB7d0yNmW9PF_wBiF4fyoCpyYaesG9v_7kmXN3w4ORfebJ_idqOwr4LP8H72AO64Duzh03X_ShHKI7BiH2N7YribDdyHj_mijUnMRXBCuGoRzL3kmhMrkUOnzKyrzCy7vVlZvp81W4OLwBZQlLB8dVa5yy3OBx5MdfcwJLl-FMgb-2x8MZOqyS3i_vqoU29sjlJTHw4oExmPSFrFPEROMPbnFV6JCuW49ueGGjStfR-fNLTtP_OHY9itkmOpu89T8ilWzj4xCsYz1UM_u07p7Ie-ZO5819yqLCtpFMv0eWSWA6kpaHokJL4CFGctXrONW5xiRtovE_qV_b6nikTKSNNvaoCKT3yGjNBAR-8V75CKMmVDmMjO0f98j3fxpmKYXxdJOCPzsy9OMWTZX3l17ehcMXuaKRVj7Mq0jk3IqeIZs6bCQDE_Pph6ZohS3L3JdklDMX0b20j7h2bvb8wqYB8-aIZIecmQbjoNH4XE4tw4eqyXRG8HCrGWOQ1OY7Thq5g3CxbJf1jZDXNHkp3xd9-j_kPpsf-uZ5GtpWMqZ1qb3danZOoi2MXYjkmRlSM3zhWdfvFRoMDNYaC04G3lcZ1yAGIAEqCXVzLWVhc3QtMjD5Cw.m3u8
